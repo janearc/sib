@@ -11,3 +11,4 @@ for teams, organisations, and states. The documents are:
   of what HR actually *does* requires secrecy. In fact, the opposite is true.
 * [States](States.md) - states claim broad powers of secrecy with very little justification.
 * [Propagation](Propagation.md) - secrecy *propagates* secrecy
+* [Corruption](Corruption.md) - secrecy corrupts.
