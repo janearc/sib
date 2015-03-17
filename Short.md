@@ -29,3 +29,18 @@ short guidance
   authority. The less authority is invoked, the more comfortable people will be
   speaking frankly, or indeed at all. More comfort leads to more openness.
   &hellip;which leads to less secrecy.
+* Commit to taxonomies and ontologies. Often, especially in government and
+  organisations that have a lot of "administrative baggage" or a long history
+  build up systems that make it difficult to find things, even very important
+  policies. This can be used as a lever by small groups of people to assert
+  control through secrecy over larger groups of people. Commit to placing
+  all documents, records of decicions, and internal history in a flat-as-possible,
+  easily-searched, regularly-and-intelligently-indexed hierarchy of documents.
+  When someone wishes to know why a thing is done or why it exists, it should
+  not be an effort to find the document supporting it.
+* Resist "organisational knowledge." Akin to "cargo-cult" practices, organisational
+  knowledge happens when a group perpetuates an activity for the sole reason of
+  having always done it "that way." Instead, try to make it easier for everyone
+  to understand, at all times, why anything is being done. If there is sunlight
+  on everything, there are few if any chances for motivations to be hidden;
+  these hidden motivations often include such ugliness as bigotry and nepotism.
