@@ -3,6 +3,7 @@ Secrecy is Bad
 This is a collection of documents describing the ways in which secrecy is bad
 for teams, organisations, and states. The documents are:
 
+* [Short](Short.md) - a very quick "reducing casual secrecy" guide.
 * [Casual](Casual.md) - the process/policy of "casual" and "inadvertent" secrecy
   ("I don't see the harm in it")
 * [Abuse](Abuse.md) - how secrecy enables abusers
